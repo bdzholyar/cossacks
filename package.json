@@ -1,0 +1,22 @@
+{
+  "name": "cossacks",
+  "version": "1.0.0",
+  "description": "Cossacks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdzholyar/cossacks.git"
+  },
+  "author": "Edward Dubovic <edward.dubovic@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdzholyar/cossacks/issues"
+  },
+  "homepage": "https://github.com/bdzholyar/cossacks#readme",
+  "dependencies": {
+    "impress": "^3.0.11"
+  }
+}
